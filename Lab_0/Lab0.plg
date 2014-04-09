@@ -1,0 +1,14 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+\\ecfile1.uwaterloo.ca\akananat\My Documents\2A\ECE_222\Lab_0\Lab0.uvproj
+Project File Date:  09/18/2013
+
+<h2>Output:</h2>
+Build target 'LPC1768_FLASH'
+linking...
+Lab0.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=116 RO-data=204 RW-data=0 ZI-data=512  
+"Lab0.axf" - 0 Error(s), 1 Warning(s).

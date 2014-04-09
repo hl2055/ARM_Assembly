@@ -1,0 +1,160 @@
+<html>
+<body>
+<pre>
+<h1>µVision Build Log</h1>
+<h2>Project:</h2>
+\\ecfile1.uwaterloo.ca\akananat\My Documents\2A\ECE_222\Lab4\Lab4.uvproj
+Project File Date:  11/12/2013
+
+<h2>Output:</h2>
+Build target 'LPC1768_RAM'
+linking...
+Lab4.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=304 RO-data=204 RW-data=0 ZI-data=512  
+"Lab4.axf" - 0 Error(s), 1 Warning(s).
+Load "\\\\ecfile1.uwaterloo.ca\\akananat\\My Documents\\2A\\ECE_222\\Lab4\\Lab4.AXF" 
+No Algorithm found for: 10000000H - 100001F7H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 100001F7H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+assembling lab4_template.s...
+linking...
+Lab4.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=300 RO-data=204 RW-data=0 ZI-data=512  
+"Lab4.axf" - 0 Error(s), 1 Warning(s).
+Load "\\\\ecfile1.uwaterloo.ca\\akananat\\My Documents\\2A\\ECE_222\\Lab4\\Lab4.AXF" 
+No Algorithm found for: 10000000H - 100001F3H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 100001F3H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+assembling lab4_template.s...
+linking...
+Lab4.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=304 RO-data=204 RW-data=0 ZI-data=512  
+"Lab4.axf" - 0 Error(s), 1 Warning(s).
+Build target 'LPC1768_RAM'
+assembling lab4_template.s...
+linking...
+Lab4.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=300 RO-data=204 RW-data=0 ZI-data=512  
+"Lab4.axf" - 0 Error(s), 1 Warning(s).
+Load "\\\\ecfile1.uwaterloo.ca\\akananat\\My Documents\\2A\\ECE_222\\Lab4\\Lab4.AXF" 
+No Algorithm found for: 10000000H - 100001F3H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 100001F3H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+assembling lab4_template.s...
+linking...
+Lab4.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=312 RO-data=204 RW-data=0 ZI-data=512  
+"Lab4.axf" - 0 Error(s), 1 Warning(s).
+Load "\\\\ecfile1.uwaterloo.ca\\akananat\\My Documents\\2A\\ECE_222\\Lab4\\Lab4.AXF" 
+No Algorithm found for: 10000000H - 100001FFH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 100001FFH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+linking...
+Lab4.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=312 RO-data=204 RW-data=0 ZI-data=512  
+"Lab4.axf" - 0 Error(s), 1 Warning(s).
+Build target 'LPC1768_RAM'
+linking...
+Lab4.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=312 RO-data=204 RW-data=0 ZI-data=512  
+"Lab4.axf" - 0 Error(s), 1 Warning(s).
+Load "\\\\ecfile1.uwaterloo.ca\\akananat\\My Documents\\2A\\ECE_222\\Lab4\\Lab4.AXF" 
+No Algorithm found for: 10000000H - 100001FFH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 100001FFH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+assembling lab4_template.s...
+linking...
+Lab4.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=320 RO-data=204 RW-data=0 ZI-data=512  
+"Lab4.axf" - 0 Error(s), 1 Warning(s).
+Build target 'LPC1768_RAM'
+assembling lab4_template.s...
+linking...
+Lab4.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=336 RO-data=204 RW-data=0 ZI-data=512  
+"Lab4.axf" - 0 Error(s), 1 Warning(s).
+Load "\\\\ecfile1.uwaterloo.ca\\akananat\\My Documents\\2A\\ECE_222\\Lab4\\Lab4.AXF" 
+No Algorithm found for: 10000000H - 10000217H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000217H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+linking...
+Lab4.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=336 RO-data=204 RW-data=0 ZI-data=512  
+"Lab4.axf" - 0 Error(s), 1 Warning(s).
+Build target 'LPC1768_RAM'
+assembling lab4_template.s...
+linking...
+Lab4.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=368 RO-data=204 RW-data=0 ZI-data=512  
+"Lab4.axf" - 0 Error(s), 1 Warning(s).
+Load "\\\\ecfile1.uwaterloo.ca\\akananat\\My Documents\\2A\\ECE_222\\Lab4\\Lab4.AXF" 
+No Algorithm found for: 10000000H - 10000237H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 10000237H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+assembling lab4_template.s...
+linking...
+Lab4.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=360 RO-data=204 RW-data=0 ZI-data=512  
+"Lab4.axf" - 0 Error(s), 1 Warning(s).
+Load "\\\\ecfile1.uwaterloo.ca\\akananat\\My Documents\\2A\\ECE_222\\Lab4\\Lab4.AXF" 
+No Algorithm found for: 10000000H - 1000022FH
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 1000022FH
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+assembling lab4_template.s...
+linking...
+Lab4.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=300 RO-data=204 RW-data=0 ZI-data=512  
+"Lab4.axf" - 0 Error(s), 1 Warning(s).
+Load "\\\\ecfile1.uwaterloo.ca\\akananat\\My Documents\\2A\\ECE_222\\Lab4\\Lab4.AXF" 
+No Algorithm found for: 10000000H - 100001F3H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 100001F3H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+linking...
+Lab4.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=300 RO-data=204 RW-data=0 ZI-data=512  
+"Lab4.axf" - 0 Error(s), 1 Warning(s).
+Load "\\\\ecfile1.uwaterloo.ca\\akananat\\My Documents\\2A\\ECE_222\\Lab4\\Lab4.AXF" 
+No Algorithm found for: 10000000H - 100001F3H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 100001F3H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
+Build target 'LPC1768_RAM'
+assembling lab4_template.s...
+linking...
+Lab4.sct(8): warning: L6314W: No section matches pattern *(InRoot$$Sections).
+Program Size: Code=300 RO-data=204 RW-data=0 ZI-data=512  
+"Lab4.axf" - 0 Error(s), 1 Warning(s).
+Load "\\\\ecfile1.uwaterloo.ca\\akananat\\My Documents\\2A\\ECE_222\\Lab4\\Lab4.AXF" 
+No Algorithm found for: 10000000H - 100001F3H
+Partial Erase Done (areas with no algorithms skipped!)
+No Algorithm found for: 10000000H - 100001F3H
+Partial Programming Done (areas with no algorithms skipped!)
+Partial Verify OK (areas with no algorithms skipped!)
