@@ -3,7 +3,7 @@ ARM Assembly on MCB1700B board with LPC1768 microcontroller. μVision, developed
 This repository contains all the labs that me and my partner Abhiraam Kananathalingam did in the course ECE 222 - Digital Computers.
 
 -------------------------------------------------------------------------------------------------------------------------
-Lab 0:
+Lab 0: Introduction to the ARM platforms
 -------------------------------------------------------------------------------------------------------------------------
 Objective:
 We will familiarize ourselves with the basics of the ARM boards used in the ECE-222 lab. Here is a
