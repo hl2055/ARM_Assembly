@@ -6,7 +6,6 @@ This repository contains all the labs that me and my partner Abhiraam Kananathal
 Lab 0:
 -------------------------------------------------------------------------------------------------------------------------
 Objective:
-----------
 We will familiarize ourselves with the basics of the ARM boards used in the ECE-222 lab. Here is a
 short list of what we will do in this session: 
 - Introduction to ARM board
